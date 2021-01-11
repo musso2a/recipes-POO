@@ -1,0 +1,10 @@
+{
+    "name": "musso/recipes-pdo",
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
