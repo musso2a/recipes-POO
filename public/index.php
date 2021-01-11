@@ -33,5 +33,10 @@ echo $recipe->getDescription();
 echo $recipe->getPersons();
 echo $recipe->getPreparationTime();
 
+$manager = new RecipeManager($storage);
+
+//add
+
 ?>
+
 
